@@ -8,3 +8,4 @@
 | @TheOneID | 2f010cdf7536e0812d1c04c3e8adf85c | 10000 | | |
 | @Kalvinen | c2955697d963f4f3a02d754ad80d2252 | 10000 | | |
 | @billyvanhalen | 43eb1b88defcd96e28f0631ffc91e262	| 10000 | | |
+| KAMP      | A49213C8C6A1FAA5C97164F86282E82B | 10000 | | |
